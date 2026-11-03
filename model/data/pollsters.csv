@@ -1,0 +1,129 @@
+pollster,csv_name,grade,pred_err,bias,lean
+20/20 Insight,20/20 Insight,B/C@@8,.75,-0.4,D
+2040 Strategy Group,,,,
+ActiVote,,,,
+Alaska Survey Research,Alaska Survey Research,A/B@@4,-.44,-1.4,D
+American Pulse Research & Polling,,,,
+American Viewpoint,American Viewpoint,B/C@@8,.54,0.5,R
+Applecart,,,,
+BSP Research,,,,
+Barbara Jordan Public Policy Research and Survey Center,,,,
+Bedrock Polling,,,,
+Bendixen & Amandi International,Bendixen & Amandi International,B/C@@8,.59,-0.1,D
+Big Data Poll,Big Data Poll,F@@13,.63,0.3,R
+Blueprint Polling,Blueprint Polling,B/C@@8,.42,-0.3,D
+Braun Research,Braun Research,B/C@@8,.55,-0.9,D
+Bravo Group,,,,
+CNN/SSRS,,,,
+Center for Strategic Politics,,,,
+Change Research,Change Research,B-@@7,.5,-2.7,D
+Christopher Newport University,Christopher Newport University,A/B@@4,-.29,-0.9,D
+Cole Hargrave,,,,
+Concord Public Opinion Partners,Concord Public Opinion Partners,B/C@@8,.71,-0.2,D
+Cygnal Political,,,,
+DCCC Targeting Team,,,,
+DHM Research,DHM Research,B/C@@8,.58,0.1,R
+Data for Progress,Data for Progress,B@@6,.08,-1.4,D
+David Binder Research,David Binder Research,B/C@@8,.37,-0.1,D
+East Carolina University Center for Survey Research,East Carolina University,B/C@@8,.1,-1.1,D
+Echelon Insights,Echelon Insights,A/B@@4,-.08,0.2,R
+Embold Research,,,,
+Emerson College,Emerson College,A-@@3,-.56,-0.3,D
+Expedition Strategies,,,,
+FM3 Research,FM3 Research,C/D@@12,1.3,-1.8,D
+Fabrizio Ward/Impact Research,,,,
+"Fabrizio, Lee & Associates","Fabrizio, Lee & Associates",A/B@@4,-.11,0.3,R
+FirstStrategic Communications and Public Affairs,,,,
+Franklin & Marshall College,Franklin & Marshall College,B/C@@8,.24,-0.6,D
+GBAO,GBAO,B/C@@8,.21,-1.1,D
+GQR,,,,
+Global Strategy Group,Global Strategy Group,B/C@@8,.66,-1.6,D
+Grassroots Targeting,,,,
+GrayHouse,,,,
+GreatBlue Research,GreatBlue Research,B/C@@8,.63,0.0,+
+Harper Polling,Harper Polling,B/C@@8,.11,-0.4,D
+Hart Research Associates,,,,
+Hart Research Associates/Public Opinion Strategies,Hart Research Associates/Public Opinion Strategies,B+@@5,-.14,-0.8,D
+Hendrix College,Hendrix College,B/C@@8,.82,-1.8,D
+High Point University,High Point University,B/C@@8,.36,0.0,+
+HighGround,,,,
+Impact Research,Impact Research,B/C@@8,.46,-1.1,D
+InsiderAdvantage,InsiderAdvantage,B@@6,.28,-0.2,D
+J.L. Partners,J.L. Partners,B/C@@8,.52,-0.3,D
+"Keating Research, Inc.",Keating Research,B/C@@8,.48,-0.1,D
+Kreate Strategies,,,,
+Lake Research Partners,Lake Research Partners,A/B@@4,0,-0.7,D
+Lighthouse Research,,,,
+Lincoln Park Strategies,,,,
+MDW Communications,,,,
+Marist University,Marist College,A@@2,-.7,-0.3,D
+Marquette University Law School,Marquette University Law School,A/B@@4,-.81,-0.2,D
+"Mason-Dixon Polling & Research, Inc.",Mason-Dixon Polling & Strategy,A-@@3,-.38,0.5,R
+MassINC Polling Group,MassINC Polling Group,A/B@@4,-.53,0.7,R
+McLaughlin & Associates,McLaughlin & Associates,C/D@@12,1.37,1.5,R
+Mitchell Research & Communications,Mitchell Research & Communications,C-@@11,1.27,-0.9,D
+Muhlenberg College,Muhlenberg College,A-@@3,-.33,0.2,R
+National Public Affairs,,,,
+National Research,National Research,A/B@@4,-.23,0.3,R
+Neighborhood Research Corporation,,,,
+Noble Predictive Insights,,,,
+"Normington, Petts & Associates","Normington, Petts & Associates",B/C@@8,.79,-0.7,D
+OnMessage Inc.,OnMessage Inc.,B/C@@8,.53,1.3,R
+Opinion Diagnostics,,,,
+Patinkin Research Strategies,Patinkin Research Strategies,B/C@@8,.77,-0.8,D
+Patriot Polling,Patriot Polling,B/C@@8,.79,1.4,R
+Peak Insights,,,,
+Public Opinion Strategies,Public Opinion Strategies,A-@@3,-.3,1.3,R
+Public Policy Institute of California,Public Policy Institute of California,A/B@@4,-.47,1.0,R
+Public Policy Polling,Public Policy Polling,A-@@3,-.39,-0.9,D
+Pulse Decision Science,,,,
+Quantus Insights,,,,
+Quinnipiac University,Quinnipiac University,A-@@3,-.38,-0.5,D
+RMG Research,RMG Research,B-@@7,.32,-3.1,D
+Ragnar Research Partners,Ragnar Research Partners,B/C@@8,.54,-0.3,D
+Research & Polling Inc.,Research & Polling Inc.,A+@@1,-.92,0.5,R
+Research Co.,Research Co.,B-@@7,.32,-0.7,D
+Rutgers-Eagleton,,,,
+SEA Polling,,,,
+Siena University,Siena College,A@@2,-.84,0.2,R
+Spry Strategies,Spry Strategies,B/C@@8,.2,0.4,R
+St. Anselm,Saint Anselm College,B/C@@8,.02,0.6,R
+St. Pete Polls,St. Pete Polls,B+@@5,-.07,0.0,+
+State Navigate,,,,
+Stetson University Center for Public Opinion Research,Stetson University,B/C@@8,.77,-0.9,D
+StimSight Research,,,,
+Strategies 360,Strategies 360,B/C@@8,.3,-1.2,D
+Suffolk University,Suffolk University,A-@@3,-.34,-0.8,D
+SurveyUSA,SurveyUSA,A@@2,-.86,0.0,+
+"Susquehanna Polling & Research, Inc.",,,,
+TargetSmart,TargetSmart,B/C@@8,.68,-0.5,D
+Targoz Market Research,Targoz Market Research,C+@@9,.87,-1.1,D
+Tarrance Group,Tarrance Group,A/B@@4,-.13,0.8,R
+Tavern Research,,,,
+The Alabama Poll,,,,
+The Bullfinch Group,,,,
+The Citadel Poll,The Citadel,B/C@@8,.77,0.0,+
+The New York Times/Siena University,The New York Times/Siena College,A+@@1,-1.18,-1.0,D
+The Political Matrix/The Listener Group,The Political Matrix/The Listener Group,C/D@@12,1.43,-1.4,D
+The Washington Post/George Mason University Schar School of Policy and Government,,,,
+Torchlight Strategies,,,,
+Trafalgar Group,Trafalgar Group,B+@@5,-.04,2.4,R
+Tulchin Research,Tulchin Research,B/C@@8,.48,0.1,R
+UMBC Institute of Politics,,,,
+UMass Lowell,University of Massachusetts Lowell,A-@@3,-.53,-0.7,D
+USC Democracy and Fair Elections Lab,University of Southern California,B/C@@8,.54,-1.3,D
+University of California Berkeley Institute of Governmental Studies,,,,
+University of Georgia,University of Georgia,B/C@@8,.15,-0.1,D
+University of Houston Hobby School of Public Affairs,University of Houston,B/C@@8,.6,0.0,+
+University of New Hampshire,University of New Hampshire,C+@@9,.65,-1.9,D
+Upswing Research,,,,
+Victory Insights,Victory Insights,B/C@@8,.72,-0.6,D
+Victory Research,Victory Research,B/C@@8,.21,-0.3,D
+VoteNexus,,,,
+Wick,Wick,B/C@@8,.13,1.2,R
+Workbench Strategy,,,,
+YouGov,YouGov,B+@@5,-.22,-0.8,D
+Z to A Research,,,,
+Zenith Research,,,,
+co/efficient,co/efficient,B+@@5,-.09,2.2,R
+yes. every kid. foundation.,,,,

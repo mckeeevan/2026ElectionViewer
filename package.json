@@ -1,0 +1,21 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "preview": "npx @observablehq/notebook-kit preview --root .",
+    "build": "npx @observablehq/notebook-kit build --root . -- \"2026 Midterms.html\"",
+    "build:deploy": "node scripts/build-deploy.mjs",
+    "test": "npm run test:js && npm run test:r",
+    "test:js": "node --test \"test/**/*.test.mjs\"",
+    "test:r": "Rscript model/tests/test_pure.R && Rscript model/tests/test_integration.R"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@observablehq/notebook-kit": "^2.9.1",
+    "@rolldown/binding-darwin-arm64": "^1.2.16"
+  }
+}
